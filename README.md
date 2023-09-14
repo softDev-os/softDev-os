@@ -45,33 +45,32 @@
   </samp>
 </p>
 <!-- Github Stats -->
+<!-- Light Mode -->
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="259px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only"/></a></td>
+      <td><a href="#--------"><img height="259px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only"/></a></td>
     </tr>
   </table>
 </div>
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=softDev-os&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Juan's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=softDev-os&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Juan's Github stats" />
-</a>
-</div>
-
 <!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=softDev-os&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Juan's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api?username=softDev-os&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Juan's Github stats" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="259px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="259px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
 </div>
-
+<!-- Social button linkedin -->
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/juan-fontalvo-softdev#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/juan-fontalvo-softdev#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
 </details>
 </div>
