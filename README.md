@@ -47,22 +47,16 @@
 <!-- Github Stats -->
 <!-- Light Mode -->
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="259px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only"/></a></td>
-      <td><a href="#--------"><img height="259px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only"/></a></td>
-    </tr>
-  </table>
+      <a href="#--------"><img height="259px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only"/></a>
+      <a href="#--------"><img height="259px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only"/></a>
 </div>
 <!-- Dark Mode -->
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="259px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="259px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
+      <a href="#--------"><img height="259px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=softDev-os&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a>
+      <a href="#--------"><img height="259px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softDev-os&layout=compact&line_height=21&hide_border=true&theme=nord"/></a>
 </div>
+
+<br/>
 <!-- Social button linkedin -->
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/juan-fontalvo-softdev#gh-light-mode-only">
