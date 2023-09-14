@@ -5,7 +5,7 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
-      <b style="font-size:24px;">
+      <b>
         Hello There
       <br>
         My name is Juan, and I'm a student. I have a fondness for Linux and programming, but I'm not a fan of Windows.
